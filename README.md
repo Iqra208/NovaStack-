@@ -239,7 +239,7 @@ Computer Science Graduate
 Passionate about Artificial Intelligence, Android Development, and Modern Web Technologies.
 
 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/Iqra208/NovaStack-
 
 ---
 
