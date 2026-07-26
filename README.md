@@ -97,7 +97,7 @@ It also serves as a strong portfolio project demonstrating practical software de
 
 <img width="1200" height="475" alt="Admin" 
 src="https://github.com/Iqra208/NovaStack-/blob/f96e5772af79f96bd30fad8c329cadc6fed3e727/Admin.png"/>
-
+<img width="1200" height="475" alt="Iqra" src="https://github.com/Iqra208/NovaStack-/blob/fd4bad5e99cf319a7bba67d6bc45614da96063f7/Iqra.png" />
 
 ---
 
