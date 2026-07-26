@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Iqra" src="C:\Users\PMLS\Desktop\Softwares\SoulMatch-AI.png" />
+<img width="1200" height="475" alt="Iqra" src="C:\Users\PMLS\Desktop\Softwares\SoulMatch-AI" />
 </div>
 
 # Run and deploy your AI Studio app
