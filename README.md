@@ -95,7 +95,9 @@ It also serves as a strong portfolio project demonstrating practical software de
 
 # 📸 Project Showcase
 
-![SoulMatch AI] https://github.com/Iqra208/NovaStack-/blob/f96e5772af79f96bd30fad8c329cadc6fed3e727/Admin.png
+<img width="1200" height="475" alt="Admin" 
+src="https://github.com/Iqra208/NovaStack-/blob/f96e5772af79f96bd30fad8c329cadc6fed3e727/Admin.png"/>
+
 
 ---
 
