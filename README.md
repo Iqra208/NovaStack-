@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Iqra" src="C:\Users\PMLS\Desktop\Softwares\SoulMatch-AI" />
+<img width="1200" height="475" alt="Iqra" src="https://github.com/Iqra208/NovaStack-/blob/fd4bad5e99cf319a7bba67d6bc45614da96063f7/Iqra.png" />
 </div>
 
 # Run and deploy your AI Studio app
