@@ -242,6 +242,13 @@ GitHub:
 https://github.com/Iqra208/NovaStack-
 
 ---
+# 🌐 Live Demo
+
+The web version of **SoulMatch AI** is deployed on **Vercel** for fast, reliable, and secure access.
+
+🔗 **Live Website:** https://nova-stack-eight.vercel.app/
+
+Experience the application online without any installation.
 
 <div align="center">
 
