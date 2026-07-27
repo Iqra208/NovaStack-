@@ -100,7 +100,7 @@ src="https://github.com/Iqra208/NovaStack-/blob/f96e5772af79f96bd30fad8c329cadc6
 <img width="1200" height="475" alt="Dashboard" src="https://github.com/Iqra208/NovaStack-/blob/1a56ae7352c075ac0a5deb9f171e82d1b9768311/Dashboard.png" />
 <img width="1200" height="475" alt="Chat" src="https://github.com/Iqra208/NovaStack-/blob/b60c7546644f2822c3ba459c0223a64bd7303419/Chat.png" />
 <img width="1200" height="475" alt="Login" src="https://github.com/Iqra208/NovaStack-/blob/77838f754df74c14ff31ae2792caa41c871af10c/Login.png" />
-<img width="1200" height="475" alt="Profile" src="https://github.com/Iqra208/NovaStack-/blob/fd4bad5e99cf319a7bba67d6bc45614da96063f7/Iqra.png" />
+<img width="1200" height="475" alt="Profile" src="https://github.com/Iqra208/NovaStack-/blob/bccf2029a283280d4ac2fba6a636820a343c86a8/Profile.png" />
 ---
 
 # 🛠️ Technologies Used
