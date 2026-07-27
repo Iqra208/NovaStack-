@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="images/banner.png" alt="SoulMatch AI Banner" width="100%"/>
+<img src="https://github.com/Iqra208/NovaStack-/blob/f0308849421b87673f6ebb1b6c45aa2c944c20d9/AI.png" width="100%"/>
 
 # ❤️ SoulMatch AI
 
