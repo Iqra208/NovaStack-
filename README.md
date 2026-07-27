@@ -161,7 +161,7 @@ SoulMatch-AI/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/SoulMatch-AI.git
+git clone https://github.com/Iqra208/NovaStack-
 ```
 
 2. Open the project in Android Studio.
